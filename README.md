@@ -10,3 +10,5 @@
 ```
 Build trail for a70s by pani941
 consider contributing to this twrp development
+
+<h1>**Issues**</h1>
